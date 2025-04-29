@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+tab# Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
@@ -43,7 +43,7 @@ that are not aligned to this Code of Conduct, or to ban temporarily or
 permanently any contributor for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
 
-## Scope
+esc## Scope
 
 This Code of Conduct applies within all project spaces, and it also applies when
 an individual is representing the project or its community in public spaces.
@@ -52,7 +52,7 @@ project e-mail address, posting via an official social media account, or acting
 as an appointed representative at an online or offline event. Representation of
 a project may be further defined and clarified by project maintainers.
 
-## Enforcement
+tab## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting the project team at opensource@github.com. All
