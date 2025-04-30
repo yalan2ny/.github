@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+tab# Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
@@ -9,7 +9,7 @@ size, disability, ethnicity, sex characteristics, gender identity and expression
 level of experience, education, socio-economic status, nationality, personal
 appearance, race, religion, or sexual identity and orientation.
 
-## Our Standards
+esc## Our Standards
 
 Examples of behavior that contributes to creating a positive environment
 include:
@@ -22,7 +22,7 @@ include:
 
 Examples of unacceptable behavior by participants include:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
+tab* The use of sexualized language or imagery and unwelcome sexual attention or
   advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
